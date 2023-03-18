@@ -1,0 +1,10 @@
+name: AutoSkinPlugin
+version: '${project.version}'
+main: dev.xernas.autoskinplugin.AutoSkinPlugin
+api-version: 1.16
+authors: [ Xernas78 ]
+website: xernas.dev
+commands:
+  autoskin:
+    permission: autoskin.autoskin
+    description: Normal command
